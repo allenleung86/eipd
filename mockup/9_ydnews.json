@@ -1,0 +1,228 @@
+{
+    "id": "9",
+    "retcode": "1",
+    "title": "粤电新闻",
+    "updates": "16",
+    "mHeight": "360",
+    "items": [
+        {
+            "title": "粤电召开党建和思想政治工作研究会火电学组年会",
+            "fulldate": "2016-11-01",
+            "isNew": "true",
+            "link": "http://www.gdyd.com/site/gdyd/ydxw/info/2016/14994.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/ydxw/index.html",
+            "date": "11-01",
+            "news_type": "集团"
+        },
+        {
+            "title": "粤电集团纪委落实即知即改工作",
+            "fulldate": "2016-10-31",
+            "isNew": "false",
+            "link": "http://www.gdyd.com/site/gdyd/ydxw/info/2016/14992.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/ydxw/index.html",
+            "date": "10-31",
+            "news_type": "集团"
+        },
+        {
+            "title": "部分火电项目加码推进 煤电顶牛再现",
+            "fulldate": "2016-10-31",
+            "isNew": "true",
+            "link": "http://www.gdyd.com/site/gdyd/hyzx/info/2016/14989.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/hyzx/index.html",
+            "date": "10-31",
+            "news_type": "行业"
+        },
+        {
+            "title": "中国可再生能源领域获1100亿美元国际投资 占全球总额1/3",
+            "fulldate": "2016-10-31",
+            "isNew": "true",
+            "link": "http://www.gdyd.com/site/gdyd/hyzx/info/2016/14988.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/hyzx/index.html",
+            "date": "10-31",
+            "news_type": "行业"
+        },
+        {
+            "title": "全国总工会副主席焦开河调研沙角A电厂",
+            "fulldate": "2016-10-24",
+            "isNew": "false",
+            "link": "http://www.gdyd.com/site/gdyd/ydxw/info/2016/14985.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/ydxw/index.html",
+            "date": "10-24",
+            "news_type": "集团"
+        },
+        {
+            "title": "系统各单位成功抵御强台风“海马”",
+            "fulldate": "2016-10-24",
+            "isNew": "false",
+            "link": "http://www.gdyd.com/site/gdyd/jcdt/info/2016/14982.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/jcdt/index.html",
+            "date": "10-24",
+            "news_type": "基层"
+        },
+        {
+            "title": "金砖国家能源合作将迎来新机遇",
+            "fulldate": "2016-10-24",
+            "isNew": "false",
+            "link": "http://www.gdyd.com/site/gdyd/hyzx/info/2016/14984.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/hyzx/index.html",
+            "date": "10-24",
+            "news_type": "行业"
+        },
+        {
+            "title": "国家能源局：进一步调控煤电规划建设",
+            "fulldate": "2016-10-24",
+            "isNew": "false",
+            "link": "http://www.gdyd.com/site/gdyd/hyzx/info/2016/14983.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/hyzx/index.html",
+            "date": "10-24",
+            "news_type": "行业"
+        },
+        {
+            "title": "粤电召开应对台风“海马”紧急专题工作会议",
+            "fulldate": "2016-10-21",
+            "isNew": "false",
+            "link": "http://www.gdyd.com/site/gdyd/ydxw/info/2016/14979.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/ydxw/index.html",
+            "date": "10-21",
+            "news_type": "集团"
+        },
+        {
+            "title": "湛江生物质发电公司第二次党员大会 开启新征程",
+            "fulldate": "2016-10-21",
+            "isNew": "false",
+            "link": "http://www.gdyd.com/site/gdyd/jcdt/info/2016/14980.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/jcdt/index.html",
+            "date": "10-21",
+            "news_type": "基层"
+        },
+        {
+            "title": "粤电召开党建和思想政治工作研究会水（风）电学组年会",
+            "fulldate": "2016-10-19",
+            "isNew": "false",
+            "link": "http://www.gdyd.com/site/gdyd/ydxw/info/2016/14975.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/ydxw/index.html",
+            "date": "10-19",
+            "news_type": "集团"
+        },
+        {
+            "title": "中粤能源公司两科技成果荣获国家发明专利",
+            "fulldate": "2016-10-19",
+            "isNew": "true",
+            "link": "http://www.gdyd.com/site/gdyd/jcdt/info/2016/14977.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/jcdt/index.html",
+            "date": "10-19",
+            "news_type": "基层"
+        },
+        {
+            "title": "湛江电力公司通过“四标”管理体系年度监督审核",
+            "fulldate": "2016-10-18",
+            "isNew": "true",
+            "link": "http://www.gdyd.com/site/gdyd/jcdt/info/2016/14974.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/jcdt/index.html",
+            "date": "10-18",
+            "news_type": "基层"
+        },
+        {
+            "title": "西电东送受电端需求放缓价格倒挂或将凸显",
+            "fulldate": "2016-10-17",
+            "isNew": "true",
+            "link": "http://www.gdyd.com/site/gdyd/hyzx/info/2016/14973.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/hyzx/index.html",
+            "date": "10-17",
+            "news_type": "行业"
+        },
+        {
+            "title": "发改委：去产能信心不容动摇、力度不能减弱",
+            "fulldate": "2016-10-17",
+            "isNew": "true",
+            "link": "http://www.gdyd.com/site/gdyd/hyzx/info/2016/14972.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/hyzx/index.html",
+            "date": "10-17",
+            "news_type": "行业"
+        },
+        {
+            "title": "粤电贵州公司在贵州首届风电运检技能竞赛中获佳绩",
+            "fulldate": "2016-10-13",
+            "isNew": "true",
+            "link": "http://www.gdyd.com/site/gdyd/jcdt/info/2016/14971.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/jcdt/index.html",
+            "date": "10-13",
+            "news_type": "基层"
+        },
+        {
+            "title": "发改委就调整新能源标杆上网电价征求意见",
+            "fulldate": "2016-10-13",
+            "isNew": "true",
+            "link": "http://www.gdyd.com/site/gdyd/hyzx/info/2016/14970.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/hyzx/index.html",
+            "date": "10-13",
+            "news_type": "行业"
+        },
+        {
+            "title": "以价格改革倒逼 天然气行业市场化改革“破冰”",
+            "fulldate": "2016-10-13",
+            "isNew": "true",
+            "link": "http://www.gdyd.com/site/gdyd/hyzx/info/2016/14969.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/hyzx/index.html",
+            "date": "10-13",
+            "news_type": "行业"
+        },
+        {
+            "title": "金湾发电公司通过“标准化良好行为”4A级确认",
+            "fulldate": "2016-10-11",
+            "isNew": "true",
+            "link": "http://www.gdyd.com/site/gdyd/jcdt/info/2016/14967.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/jcdt/index.html",
+            "date": "10-11",
+            "news_type": "基层"
+        },
+        {
+            "title": "省委第九巡视组巡视省粤电集团党委工作动员会召开",
+            "fulldate": "2016-10-10",
+            "isNew": "true",
+            "link": "http://www.gdyd.com/site/gdyd/ydxw/info/2016/14960.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/ydxw/index.html",
+            "date": "10-10",
+            "news_type": "集团"
+        },
+        {
+            "title": "粤电召开实施创新驱动体制机制改革试点工作会议",
+            "fulldate": "2016-10-08",
+            "isNew": "true",
+            "link": "http://www.gdyd.com/site/gdyd/ydxw/info/2016/14951.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/ydxw/index.html",
+            "date": "10-08",
+            "news_type": "集团"
+        },
+        {
+            "title": "系统多单位获得省环保“绿牌”",
+            "fulldate": "2016-10-08",
+            "isNew": "true",
+            "link": "http://www.gdyd.com/site/gdyd/jcdt/info/2016/14957.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/jcdt/index.html",
+            "date": "10-08",
+            "news_type": "基层"
+        },
+        {
+            "title": "粤华发电公司召开党代会绘制未来四年蓝图",
+            "fulldate": "2016-10-08",
+            "isNew": "true",
+            "link": "http://www.gdyd.com/site/gdyd/jcdt/info/2016/14958.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/jcdt/index.html",
+            "date": "10-08",
+            "news_type": "基层"
+        },
+        {
+            "title": "粤电召开煤电超低排放及节能改造项目安全管理工作会议",
+            "fulldate": "2016-09-30",
+            "isNew": "true",
+            "link": "http://www.gdyd.com/site/gdyd/ydxw/info/2016/14950.html",
+            "type_url": "http://www.gdyd.com/site/gdyd/ydxw/index.html",
+            "date": "09-30",
+            "news_type": "集团"
+        }
+    ],
+    "retmsg": "",
+    "mWidth": "450",
+    "type": "stdList"
+}

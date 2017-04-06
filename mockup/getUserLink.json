@@ -1,0 +1,35 @@
+{
+    "retcode": "1",
+    "items": {
+        "myLink": [
+            {
+                "id": "10",
+                "weight": 0,
+                "link": "",
+                "name": "",
+                "clazz": ""
+            },
+            {
+                "id": "12",
+                "weight": 1,
+                "link": "",
+                "name": "",
+                "clazz": ""
+            },
+            {
+                "id": "3",
+                "weight": 2,
+                "link": "",
+                "name": "",
+                "clazz": ""
+            },
+            {
+                "id": "44",
+                "weight": 3,
+                "link": "",
+                "name": "",
+                "clazz": ""
+            }
+        ]
+    }
+}

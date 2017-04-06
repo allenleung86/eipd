@@ -1,0 +1,189 @@
+{
+  "id": "81",
+  "retcode": "1",
+  "title": "已办",
+  "updates": "0",
+  "mHeight": "360",
+  "items": [
+    {
+      "link": "http%3A%2F%2Foa2.gdyd.com%2Fgdyd%2Fdep8%2Fswgl_8.nsf%2F0%2FEC4C24579DC1555E4825809F000758B5%3Fopendocument%26appId%3D1111",
+      "title": "[OA]测试流程",
+      "fulldate": "2017-01-05",
+      "date": "01-05",
+      "p_type": "OA",
+      "isNew": false
+    },
+    {
+      "link": "http%3A%2F%2Foa2.gdyd.com%2Fgdyd%2Fitmanage.nsf%2F0%2F6FDF83A044DA07D04825805300317965%3Fopendocument%26appId%3D1111",
+      "title": "[OA]申请绑定域名",
+      "fulldate": "2016-10-24",
+      "date": "10-24",
+      "p_type": "OA",
+      "isNew": false
+    },
+    {
+      "link": "http%3A%2F%2Flaw.gdyd.com%2Fydapp%2Fpersontasks.nsf%2FagtUrlRef%3Fopenagent%26unid%3D9C22B228C4DD754748258053000C6226%26user%3DCN%3D%3F%3F%3F%3F%2FO%3Dgdyd%26docMsubform%3D%26appId%3D60",
+      "title": "[FWGL][总部合同审批]test",
+      "fulldate": "2016-10-21",
+      "date": "10-21",
+      "p_type": "FWGL",
+      "isNew": false
+    },
+    {
+      "link": "http%3A%2F%2Foa2.gdyd.com%2Fgdyd%2Fitmanage.nsf%2F0%2FDFEA2815B08BEE2A4825804A000B1CE5%3Fopendocument%26appId%3D1111",
+      "title": "[OA]域名指向调整",
+      "fulldate": "2016-10-12",
+      "date": "10-12",
+      "p_type": "OA",
+      "isNew": false
+    },
+    {
+      "link": "http%3A%2F%2Foa2.gdyd.com%2Fgdyd%2Fitmanage.nsf%2F0%2FCAA194258890FC7B4825801B003208E7%3Fopendocument%26appId%3D1111",
+      "title": "[OA]EIP移动办公虚拟机域名申请",
+      "fulldate": "2016-09-01",
+      "date": "09-01",
+      "p_type": "OA",
+      "isNew": false
+    },
+    {
+      "link": "http%3A%2F%2Flaw.gdyd.com%2Fydapp%2Fpersontasks.nsf%2FagtUrlRef%3Fopenagent%26unid%3D3146446C8CB0A85748257FCB002B8BC8%26user%3DCN%3D%3F%3F%3F%3F%2FO%3Dgdyd%26docMsubform%3D%26appId%3D60",
+      "title": "[FWGL][总部合同审批]移动办公测试",
+      "fulldate": "2016-08-26",
+      "date": "08-26",
+      "p_type": "FWGL",
+      "isNew": false
+    },
+    {
+      "link": "http%3A%2F%2Foa2.gdyd.com%2Fgdyd%2Ferpswgl.nsf%2F0%2FDADC82B9D1869C5548257FC300301A1B%3Fopendocument%26appId%3D1111",
+      "title": "[OA]权限/基础数据调整申请：信息科技公司-开发部-黄丹凤-2016-05-30 16:45:24",
+      "fulldate": "2016-08-23",
+      "date": "08-23",
+      "p_type": "OA",
+      "isNew": false
+    },
+    {
+      "link": "http%3A%2F%2Foa2.gdyd.com%2Fgdyd%2Ferpswgl.nsf%2F0%2F2234B727A627D74748257FC4000172A2%3Fopendocument%26appId%3D1111",
+      "title": "[OA]简易注册供应商申请：信息科技公司-开发部-黄丹凤-2016-05-31 08:15:48",
+      "fulldate": "2016-08-23",
+      "date": "08-23",
+      "p_type": "OA",
+      "isNew": false
+    },
+    {
+      "link": "http%3A%2F%2Foa2.gdyd.com%2Fgdyd%2Fdep280%2Fczhj_280.nsf%2F0%2F9F3BB7ED1A1260F848257FBD0004CC00%3Fopendocument%26appId%3D1111",
+      "title": "[OA]【EIPM】传真函件测试案例0815",
+      "fulldate": "2016-08-23",
+      "date": "08-23",
+      "p_type": "OA",
+      "isNew": false
+    },
+    {
+      "link": "http%3A%2F%2Foa2.gdyd.com%2Fgdyd%2Ferpswgl.nsf%2F0%2F30D531C368A2064648257FB90010A0B7%3Fopendocument%26appId%3D1111",
+      "title": "[OA]ERP功能变更申请：信息科技公司-开发部-何磊-2016-05-20 11:01:37",
+      "fulldate": "2016-08-23",
+      "date": "08-23",
+      "p_type": "OA",
+      "isNew": false
+    },
+    {
+      "link": "http%3A%2F%2Foa2.gdyd.com%2Fgdyd%2Fitmanage.nsf%2F0%2F2360B3AB3BADDE1848257FE7003065E7%3Fopendocument%26appId%3D1111",
+      "title": "[OA]【测试】it维护单",
+      "fulldate": "2016-08-19",
+      "date": "08-19",
+      "p_type": "OA",
+      "isNew": false
+    },
+    {
+      "link": "http%3A%2F%2Foa2.gdyd.com%2Fgdyd%2Fdep280%2Ffwgl_280.nsf%2F0%2F1FBE1FC22DDE66CD4825801400289511%3Fopendocument%26appId%3D1111",
+      "title": "[OA][EIPM]发文测试案例0819",
+      "fulldate": "2016-08-19",
+      "date": "08-19",
+      "p_type": "OA",
+      "isNew": false
+    },
+    {
+      "link": "http%3A%2F%2Foa2.gdyd.com%2Fgdyd%2Fdep1%2Fzdgl.nsf%2F0%2F9A1E2DA56DE1E36B48257D100011B260%3Fopendocument%26appId%3D1111",
+      "title": "[OA]测试编号制度问题021",
+      "fulldate": "2016-08-17",
+      "date": "08-17",
+      "p_type": "OA",
+      "isNew": false
+    },
+    {
+      "link": "http%3A%2F%2Foa2.gdyd.com%2Fgdyd%2Fdep280%2Fswgl_280.nsf%2F0%2F09913F87E04455B04825800B000C8BC6%3Fopendocument%26appId%3D1111",
+      "title": "[OA]eipm测试-科技公司收文会签测试",
+      "fulldate": "2016-08-10",
+      "date": "08-10",
+      "p_type": "OA",
+      "isNew": false
+    },
+    {
+      "link": "http%3A%2F%2Foa2.gdyd.com%2Fgdyd%2Fdep198%2Ffwgl_198.nsf%2F0%2FCA9A11E0104578BA48257FE0002E3B81%3Fopendocument%26appId%3D1111",
+      "title": "[OA]【EIPM-测试信息，请勿审批】湛江风电发文测试案例20160628",
+      "fulldate": "2016-06-28",
+      "date": "06-28",
+      "p_type": "OA",
+      "isNew": false
+    },
+    {
+      "link": "http%3A%2F%2Foa2.gdyd.com%2Fgdyd%2Fdep280%2Ffwgl_280.nsf%2F0%2FB8865799AA992E7648257FBD000D1DC1%3Fopendocument%26appId%3D1111",
+      "title": "[OA]【EIPM】发文测试案例20160524（珺） （科学）",
+      "fulldate": "2016-06-22",
+      "date": "06-22",
+      "p_type": "OA",
+      "isNew": false
+    },
+    {
+      "link": "http%3A%2F%2Foa2.gdyd.com%2Fgdyd%2Fdep198%2Ffwgl_198.nsf%2F0%2F459F10C01999554048257FD9000D1580%3Fopendocument%26appId%3D1111",
+      "title": "[OA]【EIPM】湛江风电测试案例20160621-001",
+      "fulldate": "2016-06-21",
+      "date": "06-21",
+      "p_type": "OA",
+      "isNew": false
+    },
+    {
+      "link": "http%3A%2F%2Foa2.gdyd.com%2Fgdyd%2Fdep280%2Ffwgl_280.nsf%2F0%2F06A1E876D841F0C648257FD30024E02D%3Fopendocument%26appId%3D1111",
+      "title": "[OA]【EIPM】发文测试案例20160615",
+      "fulldate": "2016-06-15",
+      "date": "06-15",
+      "p_type": "OA",
+      "isNew": false
+    },
+    {
+      "link": "http%3A%2F%2Foa2.gdyd.com%2Fgdyd%2Ferpswgl.nsf%2F0%2FEA58D39C280119E348257FB90011199A%3Fopendocument%26appId%3D1111",
+      "title": "[OA]ERP新增帐套/模块申请：信息科技公司-开发部-何磊-2016-05-20 11:06:46",
+      "fulldate": "2016-06-02",
+      "date": "06-02",
+      "p_type": "OA",
+      "isNew": false
+    },
+    {
+      "link": "http%3A%2F%2Foa2.gdyd.com%2Fgdyd%2Fdep11462%2Ffwgl_11462.nsf%2F0%2F600ACDDCD8536C7648257F8600301A83%3Fopendocument%26appId%3D1111",
+      "title": "[OA]eipm移动办公测试发文20160330",
+      "fulldate": "2016-05-06",
+      "date": "05-06",
+      "p_type": "OA",
+      "isNew": false
+    },
+    {
+      "link": "http%3A%2F%2Foa2.gdyd.com%2Fmm%2Fdep211%2Ffwgl_211.nsf%2F0%2F6C01BEFFF5C51ADB48257F4500088BC3%3Fopendocument%26appId%3D1111",
+      "title": "[OA]【EIPM】茂名电厂测试案例20160125",
+      "fulldate": "2016-01-25",
+      "date": "01-25",
+      "p_type": "OA",
+      "isNew": false
+    },
+    {
+      "link": "http%3A%2F%2Foa2.gdyd.com%2Fmm%2Fdep211%2Ffwgl_211.nsf%2F0%2F960B7DA060DBC2AA48257EF800108938%3Fopendocument%26appId%3D1111",
+      "title": "[OA]【EIPM】茂名发文测试案例001",
+      "fulldate": "2015-11-09",
+      "date": "11-09",
+      "p_type": "OA",
+      "isNew": false
+    }
+  ],
+  "link": "http://10.0.241.53:8080/",
+  "retmsg": "",
+  "mWidth": "450",
+  "type": "stdList"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "1000",
+    "retcode": "1",
+    "title": "TIMSS",
+    "updates": "2",
+    "mHeight": "360",
+    "items": [
+        {
+            "title": "请假申请",
+            "iconCls": "fi-calendar",
+            "url": "http://10.0.250.80/timss2mir/EipInterface/tokenRedirect.do?redirect=path%3Dattendance%2Fleave%2FinsertLeaveToPage.do&token=6Y14lX1tCCMbeHMHhPE7sJLxeOML9dMi"
+        },
+        {
+            "title": "采购申请",
+            "iconCls": "fi-purchase",
+            "url": "http://10.0.250.80/timss2mir/EipInterface/tokenRedirect.do?redirect=path%3Dpurchase%2Fpurapply%2FpurApplyForm.do%3Ftype%3Dnew_single%26sheetId%3D&token=6Y14lX1tCCMbeHMHhPE7sJLxeOML9dMi"
+        }
+    ],
+    "link": "http://timss.gdyd.com",
+    "retmsg": "",
+    "mWidth": "450",
+    "type": "stdList"
+}

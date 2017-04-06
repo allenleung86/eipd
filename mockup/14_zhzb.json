@@ -1,0 +1,171 @@
+{
+    "id": "14",
+    "title": "综合指标",
+    "items": [
+        {
+            "name": "day",
+            "fields": [
+                {
+                    "unit": "%",
+                    "link": "http://10.192.100.48:9704/analytics/saw.dll?PortalPages&PortalPath=%20/users/YDEIP/_Portal&Page=KPI_DAIL_FHL_7DAY&Done=Colse&NQUser=ydeip&NQPassword=ydeip",
+                    "name": "fhl-clxs",
+                    "value": "69",
+                    "label": "日负荷率（出力系数）"
+                },
+                {
+                    "unit": "%",
+                    "link": "http://10.192.100.48:9704/analytics/saw.dll?PortalPages&PortalPath=/users/YDEIP/_Portal&Page=KPI_DAIL_FHL_COAL_UNIT&Done=Colse&NQUser=ydeip&NQPassword=ydeip",
+                    "name": "fhl-rmjz",
+                    "value": "67",
+                    "label": "燃煤机组日负荷率"
+                },
+                {
+                    "unit": "",
+                    "link": "http://eip3.gdyd.com/eip/cms_index.jsp?cid=bdi ",
+                    "name": "BDI",
+                    "value": "954",
+                    "label": "航运BDI指数"
+                },
+                {
+                    "unit": "万吨",
+                    "link": "http://eip3.gdyd.com/eip/cms_index.jsp?cid=jtcm",
+                    "name": "jtcm",
+                    "value": "265",
+                    "label": "集团存煤"
+                },
+                {
+                    "unit": "万吨",
+                    "link": "http://10.192.100.48:9704/analytics/saw.dll?PortalPages&PortalPath=/users/YDEIP/_Portal&Page=KPI_FDMH_POWER_YBP&Done=Colse&NQUser=ydeip&NQPassword=ydeip",
+                    "name": "mhl",
+                    "value": "9.1",
+                    "label": "日煤耗量"
+                },
+                {
+                    "unit": "小时",
+                    "memo": "日利用小时（折算年利用小时）",
+                    "link": "http://10.192.100.48:9704/analytics/saw.dll?PortalPages&PortalPath=/users/YDEIP/_Portal&Page=KPI_DAIL_LYXS_7DAY&Done=Colse&NQUser=ydeip&NQPassword=ydeip",
+                    "name": "lyxs",
+                    "value": "8.4(3055)",
+                    "label": "日利用小时"
+                },
+                {
+                    "unit": "亿kWh",
+                    "link": "http://10.192.100.48:9704/analytics/saw.dll?PortalPages&PortalPath=/users/YDEIP/_Portal&Page=KPI_DAIL_DL_YBP&Done=Colse&NQUser=ydeip&NQPassword=ydeip",
+                    "name": "dl",
+                    "value": "2.3",
+                    "label": "日电量"
+                }
+            ],
+            "tabid": "0"
+        },
+        {
+            "name": "month",
+            "fields": [
+                {
+                    "unit": "%",
+                    "link": "http://10.192.100.48:9704/analytics/saw.dll?PortalPages&PortalPath=/users/YDEIP/_Portal&Page=KPI_FHL_YBP&Done=Colse&NQUser=ydeip&NQPassword=ydeip",
+                    "name": "fhl",
+                    "value": "71",
+                    "label": "月负荷率"
+                },
+                {
+                    "unit": "%",
+                    "link": "http://10.192.100.48:9704/analytics/saw.dll?PortalPages&PortalPath=/users/YDEIP/_Portal&Page=KPI_CYDL_YBP&Done=Colse&NQUser=ydeip&NQPassword=ydeip",
+                    "name": "cydl",
+                    "value": "5.4",
+                    "label": "厂用电率"
+                },
+                {
+                    "unit": "%",
+                    "link": "http://10.192.100.48:9704/analytics/saw.dll?PortalPages&PortalPath=/users/YDEIP/_Portal&Page=KPI_MOTH_COAL_UNIT_FHL_YBP&Done=Colse&NQUser=ydeip&NQPassword=ydeip",
+                    "name": "fhl-rmjz-month",
+                    "value": "73",
+                    "label": "燃煤机组月负荷率"
+                },
+                {
+                    "unit": "%",
+                    "link": "http://10.192.100.48:9704/analytics/saw.dll?PortalPages&PortalPath=/users/YDEIP/_Portal&Page=SCZB_PRE_BZFGDLFET_YBP&Done=Colse&NQUser=ydeip&NQPassword=ydeip",
+                    "name": "zlj-scfe",
+                    "value": "0",
+                    "label": "周累计市场份额"
+                },
+                {
+                    "unit": "m<sup>3<\/sup>/kWh",
+                    "link": "http://10.192.100.48:9704/analytics/saw.dll?PortalPages&PortalPath=/users/YDEIP/_Portal&Page=KPI_FDSH_WATER_YBP&Done=Colse&NQUser=ydeip&NQPassword=ydeip",
+                    "name": "fdsh",
+                    "value": "8.2",
+                    "label": "发电水耗"
+                },
+                {
+                    "unit": "g/kWh",
+                    "link": "http://10.192.100.48:9704/analytics/saw.dll?PortalPages&PortalPath=/users/YDEIP/_Portal&Page=KPI_FDMH_FIRE_YBP&Done=Colse&NQUser=ydeip&NQPassword=ydeip",
+                    "name": "fdbmh",
+                    "value": "297",
+                    "label": "发电标煤耗"
+                },
+                {
+                    "unit": "小时",
+                    "link": "http://10.192.100.48:9704/analytics/saw.dll?PortalPages&PortalPath=/users/YDEIP/_Portal&Page=KPI_LYXS_YPB&Done=Colse&NQUser=ydeip&NQPassword=ydeip",
+                    "name": "lyxs-month",
+                    "value": "310",
+                    "label": "月利用小时"
+                },
+                {
+                    "unit": "次",
+                    "link": "http://eip-app.gdyd.com:7777/Machinginfo1/security.jsp",
+                    "name": "gz",
+                    "value": "0",
+                    "label": "C类及以上障碍"
+                }
+            ],
+            "tabid": "1"
+        },
+        {
+            "name": "year",
+            "fields": [
+                {
+                    "unit": "亿kWh",
+                    "link": "http://10.192.100.48:9704/analytics/saw.dll?PortalPages&PortalPath=/users/YDEIP/_Portal&Page=SYFDL&Done=Colse&NQUser=ydeip&NQPassword=ydeip",
+                    "name": "fdl",
+                    "value": "890",
+                    "label": "年累计发电量"
+                },
+                {
+                    "unit": "亿kWh",
+                    "link": "http://10.192.100.48:9704/analytics/saw.dll?PortalPages&PortalPath=/users/YDEIP/_Portal&Page=SYGDL_LJ_SEP&Done=Colse&NQUser=ydeip&NQPassword=ydeip",
+                    "name": "swdl",
+                    "value": "839",
+                    "label": "年累计上网电量"
+                },
+                {
+                    "unit": "小时",
+                    "link": "http://10.192.100.48:9704/analytics/saw.dll?PortalPages&PortalPath=/users/YDEIP/_Portal&Page=SYLYXS_TB_YBP&Done=Colse&NQUser=ydeip&NQPassword=ydeip",
+                    "name": "lyxs-year",
+                    "value": "2977(3450)",
+                    "label": "年累计利用小时"
+                }
+            ],
+            "tabid": "2"
+        },
+        {
+            "name": "composite",
+            "fields": [
+                {
+                    "unit": "万元",
+                    "link": "http://eip3.gdyd.com/eip/cms_index.jsp?cid=cwgjye",
+                    "name": "sww-jyl",
+                    "value": "2624,124",
+                    "label": "商务网交易量"
+                },
+                {
+                    "unit": "人",
+                    "link": "http://10.192.100.48:9704/analytics/saw.dll?PortalPages&PortalPath=/users/YDEIP/_Portal&Page=SYRLZYZB&Done=Colse&NQUser=ydeip&NQPassword=ydeip",
+                    "name": "zzrs",
+                    "value": "13990",
+                    "label": "在职人数"
+                }
+            ],
+            "tabid": "3"
+        }
+    ]
+}

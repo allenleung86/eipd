@@ -1,0 +1,165 @@
+{
+    "id": "7",
+    "retcode": "1",
+    "title": "待阅事项",
+    "updates": "8",
+    "items": [
+        {
+            "title": "关于印发《广东粤电信息科技有限公司考勤管理办法（2016年修订）》补充规定的通知",
+            "fulldate": "2016-10-31",
+            "isNew": "true",
+            "fldmodule": null,
+            "link": "http://oa2.gdyd.com/todo/890157.nsf/vwUnReadDocByListForShow/D8510E3BD01B45594825805D0010C7F0?opendocument&view=vwreaddoc&dbpathdbpath=gdyd%2Fdep280%2Ffwgl_280.nsf",
+            "state": {
+                "value": "已归档",
+                "label": "发文状态"
+            },
+            "date": "10-31",
+            "p_type": "OA"
+        },
+        {
+            "title": "关于印发《广东粤电信息科技有限公司计划生育管理办法（2016年修订）》补充规定的通知",
+            "fulldate": "2016-10-31",
+            "isNew": "true",
+            "fldmodule": null,
+            "link": "http://oa2.gdyd.com/todo/890157.nsf/vwUnReadDocByListForShow/662301B7192B69FE4825805D000B5ACE?opendocument&view=vwreaddoc&dbpathdbpath=gdyd%2Fdep280%2Ffwgl_280.nsf",
+            "state": {
+                "value": "已归档",
+                "label": "发文状态"
+            },
+            "date": "10-31",
+            "p_type": "OA"
+        },
+        {
+            "title": "广东粤电信息科技有限公司保密管理办法（试行）",
+            "fulldate": "2016-10-31",
+            "isNew": "true",
+            "fldmodule": null,
+            "link": "http://oa2.gdyd.com/todo/890157.nsf/vwUnReadDocByListForShow/EFE5E682D652B3F24825805D0005CB06?opendocument&view=vwreaddoc&dbpathdbpath=gdyd%2Fdep280%2Fkjzdgl_280.nsf",
+            "state": {
+                "value": "已归档",
+                "label": "发文状态"
+            },
+            "date": "10-31",
+            "p_type": "OA"
+        },
+        {
+            "title": "广东粤电信息科技有限公司档案管理办法（试行）",
+            "fulldate": "2016-10-28",
+            "isNew": "true",
+            "fldmodule": null,
+            "link": "http://oa2.gdyd.com/todo/890157.nsf/vwUnReadDocByListForShow/0069250AE07E6E204825805A0030B953?opendocument&view=vwreaddoc&dbpathdbpath=gdyd%2Fdep280%2Fkjzdgl_280.nsf",
+            "state": {
+                "value": "正式发文",
+                "label": "发文状态"
+            },
+            "date": "10-28",
+            "p_type": "OA"
+        },
+        {
+            "title": "广东粤电信息科技有限公司劳动用工管理办法（2016年修订）",
+            "fulldate": "2016-10-12",
+            "isNew": "true",
+            "fldmodule": null,
+            "link": "http://oa2.gdyd.com/todo/890157.nsf/vwUnReadDocByListForShow/473EFC3380682C064825804A00266BBE?opendocument&view=vwreaddoc&dbpathdbpath=gdyd%2Fdep280%2Fkjzdgl_280.nsf",
+            "state": {
+                "value": "已归档",
+                "label": "发文状态"
+            },
+            "date": "10-12",
+            "p_type": "OA"
+        },
+        {
+            "title": "广东粤电信息科技有限公司“三重一大”事项决策管理办法（试行）",
+            "fulldate": "2016-10-10",
+            "isNew": "true",
+            "fldmodule": null,
+            "link": "http://oa2.gdyd.com/todo/890157.nsf/vwUnReadDocByListForShow/4E5A617DFA29AC284825804800161EBA?opendocument&view=vwreaddoc&dbpathdbpath=gdyd%2Fdep280%2Fkjzdgl_280.nsf",
+            "state": {
+                "value": "已归档",
+                "label": "发文状态"
+            },
+            "date": "10-10",
+            "p_type": "OA"
+        },
+        {
+            "title": "广东粤电信息科技有限公司差旅费管理办法（2016年修订）",
+            "fulldate": "2016-09-09",
+            "isNew": "false",
+            "fldmodule": null,
+            "link": "http://oa2.gdyd.com/todo/890157.nsf/vwUnReadDocByListForShow/B90A875022E9F5D448258029000B82CD?opendocument&view=vwreaddoc&dbpathdbpath=gdyd%2Fdep280%2Fkjzdgl_280.nsf",
+            "state": {
+                "value": "已归档",
+                "label": "发文状态"
+            },
+            "date": "09-09",
+            "p_type": "OA"
+        },
+        {
+            "title": "广东粤电信息科技有限公司防病毒管理规范（2016年修订）",
+            "fulldate": "2016-07-22",
+            "isNew": "false",
+            "fldmodule": null,
+            "link": "http://oa2.gdyd.com/todo/890157.nsf/vwUnReadDocByListForShow/34A5651A4DC65EBC48257FF80032EC89?opendocument&view=vwreaddoc&dbpathdbpath=gdyd%2Fdep280%2Fkjzdgl_280.nsf",
+            "state": {
+                "value": "已归档",
+                "label": "发文状态"
+            },
+            "date": "07-22",
+            "p_type": "OA"
+        },
+        {
+            "title": "广东粤电信息科技有限公司IT故障接单处理管理规范（2016年修订）",
+            "fulldate": "2016-07-19",
+            "isNew": "false",
+            "fldmodule": null,
+            "link": "http://oa2.gdyd.com/todo/890157.nsf/vwUnReadDocByListForShow/6DA24FC1D8A1ED3C48257FF5002665FF?opendocument&view=vwreaddoc&dbpathdbpath=gdyd%2Fdep280%2Fkjzdgl_280.nsf",
+            "state": {
+                "value": "已归档",
+                "label": "发文状态"
+            },
+            "date": "07-19",
+            "p_type": "OA"
+        },
+        {
+            "title": "广东粤电信息科技有限公司车辆管理制度（2016年修订）",
+            "fulldate": "2016-06-13",
+            "isNew": "false",
+            "fldmodule": null,
+            "link": "http://oa2.gdyd.com/todo/890157.nsf/vwUnReadDocByListForShow/6AA1D28B2239A48648257FD100243FB9?opendocument&view=vwreaddoc&dbpathdbpath=gdyd%2Fdep280%2Fkjzdgl_280.nsf",
+            "state": {
+                "value": "已归档",
+                "label": "发文状态"
+            },
+            "date": "06-13",
+            "p_type": "OA"
+        },
+        {
+            "title": "广东粤电信息科技有限公司办公用品发放领用管理办法（2016年修订）",
+            "fulldate": "2016-06-13",
+            "isNew": "true",
+            "fldmodule": null,
+            "link": "http://oa2.gdyd.com/todo/890157.nsf/vwUnReadDocByListForShow/68644462B270B48B48257FD100220F50?opendocument&view=vwreaddoc&dbpathdbpath=gdyd%2Fdep280%2Fkjzdgl_280.nsf",
+            "state": {
+                "value": "已归档",
+                "label": "发文状态"
+            },
+            "date": "06-13",
+            "p_type": "OA"
+        },
+        {
+            "title": "广东粤电信息科技有限公司会议管理办法（2016年修订）",
+            "fulldate": "2016-06-13",
+            "isNew": "true",
+            "fldmodule": null,
+            "link": "http://oa2.gdyd.com/todo/890157.nsf/vwUnReadDocByListForShow/3B3AA9ED52DEB3D748257FD10021C3D2?opendocument&view=vwreaddoc&dbpathdbpath=gdyd%2Fdep280%2Fkjzdgl_280.nsf",
+            "state": {
+                "value": "已归档",
+                "label": "发文状态"
+            },
+            "date": "06-13",
+            "p_type": "OA"
+        }
+    ],
+    "retmsg": ""
+}

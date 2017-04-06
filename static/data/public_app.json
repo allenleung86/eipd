@@ -1,0 +1,40 @@
+{
+    "retcode": 1,
+    "items": [{
+        "title": "办公系统",
+        "iconCls": "fi-pen",
+        "url": "../redir?url=http%253A%252F%252Feip-db1.gdyd.com%252FdataCenter%252Fredir%253Fp0%253D7%2526p2%253D890157%2526p3%253Dhttp%253A%252F%252Foa2.gdyd.com%252Findishare%252Foffice.nsf%252F(frame)%252Ftree"
+    },{
+        "title": "内部邮箱",
+        "iconCls": "fi-mail",
+        "url": "../redir?url=http%253A%252F%252Feip-db1.gdyd.com%252FdataCenter%252Fredir%253Fp0%253D3%2526p2%253D890157%2526p4%253D1%2526p3%253DmailFrame"
+    },{
+        "title": "外部邮箱",
+        "iconCls": "fi-mail2",
+        "url": "http://eip-db1.gdyd.com/SSO/extLogin.do?appId=qiyemail"
+    },{
+        "title": "新通讯录",
+        "iconCls": "fi-phonebook",
+        "url": "http://10.0.16.201:8080/addressbook/search.jsp"
+    },{
+        "title": "粤电外网",
+        "iconCls": "fi-global",
+        "url": "http://www.gdyd.com/"
+    },{
+        "title": "共享文件",
+        "iconCls": "fi-doc",
+        "url": "file://10.0.24.45/"
+    },{
+        "title": "旧OA",
+        "iconCls": "fi-pen",
+        "url": "../redir?url=http%253A%252F%252Feip-db1.gdyd.com%252FdataCenter%252Fredir%253Fp0%253D1%2526p2%253D890157%2526p3%253Dhttp%253A%252F%252Foa.gdyd.com%252Findishare%252Foffice.nsf%252F(frame)%252Fstartup%253Fopen"
+    },{
+        "title": "软件中心",
+        "iconCls": "fi-computer",
+        "url": "http://softwarecentre/CMApplicationCatalog/"
+    },{
+        "title": "外部链接",
+        "iconCls": "fi-atom",
+        "url": "http://eip3.gdyd.com:8080/links/extlink.html"
+    }]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "16",
+    "retcode": "1",
+    "title": "待办",
+    "updates": "2",
+    "mHeight": "360",
+    "items": [
+        {
+            "title": "山西能源OA系统待办信息",
+            "fulldate": "2016-10-31",
+            "isNew": "true",
+            "fldmodule": null,
+            "link": "http://oa2.gdyd.com/todo/890157.nsf/vwUnReadDocByListForShow/D8510E3BD01B45594825805D0010C7F0?opendocument&view=vwreaddoc&dbpathdbpath=gdyd%2Fdep280%2Ffwgl_280.nsf",
+            "state": {
+                "value": "已归档",
+                "label": "发文状态"
+            },
+            "date": "10-31",
+            "p_type": "OA"
+        },
+        {
+            "title": "商务网待办信息",
+            "fulldate": "2016-10-31",
+            "isNew": "true",
+            "fldmodule": null,
+            "link": "http://oa2.gdyd.com/todo/890157.nsf/vwUnReadDocByListForShow/662301B7192B69FE4825805D000B5ACE?opendocument&view=vwreaddoc&dbpathdbpath=gdyd%2Fdep280%2Ffwgl_280.nsf",
+            "state": {
+                "value": "已归档",
+                "label": "发文状态"
+            },
+            "date": "10-31",
+            "p_type": "OA"
+        }
+    ],
+    "link": "http://10.0.16.228/maximo",
+    "retmsg": "无待办",
+    "mWidth": "450",
+    "type": "stdList"
+}

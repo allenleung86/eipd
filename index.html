@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+  <title>Eipd</title>
+  <link rel="stylesheet" type="text/css" href="dist/css/all.css" />
+  <link rel="stylesheet" type="text/css" href="static/fonts/iconfont.css" />
+  <script>
+      var NVTrace = {
+          trace: function(obj){
+              if(!obj){return;}
+              obj.level = obj.level || "debug";
+              obj.type = obj.type || "global";
+              obj.data = obj.data || "";
+              var xhr = new XMLHttpRequest();
+              xhr.open('POST', '../trace');
+              xhr.setRequestHeader('Content-Type', 'application/json');
+              xhr.send(JSON.stringify(obj));
+          },
+          debug: function(obj){NVTrace.trace(obj);},
+          info: function(obj){obj.level = "info";NVTrace.trace(obj);},
+          error: function(obj){obj.level = "error";NVTrace.trace(obj);}
+      };
+  </script>
+  <!--[if IE]><script src="static/js/polyfill.js"></script><![endif]-->
+  <script>document.getElementsByTagName("html")[0].className="modern";</script>
+  <!--[if IE 9]><script> window.isIE9 = true; document.getElementsByTagName("html")[0].className="ie9";</script><![endif]-->
+</head>
+
+<body class="text-white solid blue-light">
+  <div id="main"></div>
+  <script>
+    var NV = {
+      userId: "890157",
+      card: {},
+      attachment: {},
+      dialogs: {},
+      userConfig: {}
+    };
+    var D = {
+
+    };
+  </script>
+  <script src="dist/config/module.js"></script>
+  <script src="mockup/urls.js"></script>
+  <script src="dist/bundle.js"></script>
+  <script src="static/js/color-thief.js"></script>
+</body>
+
+</html>

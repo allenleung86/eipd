@@ -1,0 +1,525 @@
+{
+    "id": "27",
+    "retcode": "1",
+    "title": "新内部邮箱",
+    "updates": "10",
+    "mHeight": "360",
+    "items": [
+        {
+            "author": "898026@gdyd.com",
+            "title": "请查阅文件：关于印发《广东粤电信息科技有限公司考勤管理办法（2016年修订）》补充规定的通知【信息科技公司发文】",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkXAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-31"
+        },
+        {
+            "author": "898026@gdyd.com",
+            "title": "请查阅文件：关于印发《广东粤电信息科技有限公司计划生育管理办法（2016年修订）》补充规定的通知【信息科技公司发文】",
+            "isNew": "true",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkWAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-31"
+        },
+        {
+            "author": "开发部自动通知",
+            "title": "JIRA- (TIM-2170) 首页卡片load事件数据获取失败",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkUAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-31"
+        },
+        {
+            "author": "喻蜀江",
+            "title": "转发: 关于提供“2016年度研发项目”材料事宜",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkTAAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "10-27"
+        },
+        {
+            "author": "开发部自动通知",
+            "title": "JIRA- (TIM-1875) 宽松显示：宽松显示时部分列表未生效",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkSAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-26"
+        },
+        {
+            "author": "胡力升",
+            "title": "关于集团公司A/B座停车场车位调整的紧急通知",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkRAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-25"
+        },
+        {
+            "author": "朱旺",
+            "title": "SVN迁移通知",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkQAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-24"
+        },
+        {
+            "author": "开发部自动通知",
+            "title": "JIRA- (TIM-2056) 增加富文本编辑器",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkPAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-24"
+        },
+        {
+            "author": "开发部自动通知",
+            "title": "JIRA- (TIM-1718) 类似jira选人的元素组件，元素自带叉叉可删除自己",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkOAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-24"
+        },
+        {
+            "author": "开发部自动通知",
+            "title": "JIRA- (TIM-1795) 按钮loading....变成“提交中...”",
+            "isNew": "true",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkNAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-24"
+        },
+        {
+            "author": "开发部自动通知",
+            "title": "JIRA- (TIM-1703) 【研发】显示设置只对列表生效。",
+            "isNew": "true",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkMAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-24"
+        },
+        {
+            "author": "开发部自动通知",
+            "title": "JIRA- (EIP-349) 【QXH-B2B】待办：若原系统登录超时，则无法获取到待办",
+            "isNew": "true",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkLAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-24"
+        },
+        {
+            "author": "开发部自动通知",
+            "title": "JIRA- (EIP-109) 【QXH】数据修改后，在部分浏览器下，因为缓存用户不能看到修改后的数据",
+            "isNew": "true",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkKAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-24"
+        },
+        {
+            "author": "开发部自动通知",
+            "title": "JIRA- (EIP-66) 【QXH】标记点已被规则关联，删除标记点，其关联标记点显示undefined",
+            "isNew": "true",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkJAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-24"
+        },
+        {
+            "author": "开发部自动通知",
+            "title": "JIRA- (EIP-89) 运行事故辅助系统修改显示名",
+            "isNew": "true",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkIAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-24"
+        },
+        {
+            "author": "开发部自动通知",
+            "title": "JIRA- (EIP-311) 生产数据-环保数据，按机组显示",
+            "isNew": "true",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkHAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-24"
+        },
+        {
+            "author": "开发部自动通知",
+            "title": "JIRA- (TIM-2131) 固定资产：排版不符合UI规范：单选字段占二行，详情见附件",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkGAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-21"
+        },
+        {
+            "author": "开发部自动通知",
+            "title": "JIRA- (TIM-2131) 固定资产：排版不符合UI规范：单选字段占二行，详情见附件",
+            "isNew": "true",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkFAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-21"
+        },
+        {
+            "author": "开发部自动通知",
+            "title": "JIRA- (TIM-2131) 固定资产：排版不符合UI规范：单选字段占二行，详情见附件",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkEAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-21"
+        },
+        {
+            "author": "开发部自动通知",
+            "title": "JIRA- (TIM-2131) 固定资产：排版不符合UI规范：单选字段占二行，详情见附件",
+            "isNew": "true",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkDAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-21"
+        },
+        {
+            "author": "开发部自动通知",
+            "title": "JIRA- (TIM-1530) 【通用】在查看用户组或者角色详情时，被禁用的用户应该保留显示，在后面带个括号",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkCAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-21"
+        },
+        {
+            "author": "898026@gdyd.com",
+            "title": "请查阅文件：广东粤电信息科技有限公司劳动用工管理办法（2016年修订）【科技公司制度管理】",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkBAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-12"
+        },
+        {
+            "author": "朱旺",
+            "title": "SVN迁移通知撤回",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOkAAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-12"
+        },
+        {
+            "author": "朱旺",
+            "title": "SVN迁移通知",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOj%252fAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-12"
+        },
+        {
+            "author": "开发部自动通知",
+            "title": "JIRA- (TIM-2056) 增加富文本编辑器",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOj9AAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-08"
+        },
+        {
+            "author": "开发部自动通知",
+            "title": "JIRA- (TIM-2056) 增加富文本编辑器",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOj8AAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-08"
+        },
+        {
+            "author": "开发部自动通知",
+            "title": "JIRA- (TIM-2056) 增加富文本编辑器",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOj7AAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "10-08"
+        },
+        {
+            "author": "段磊",
+            "title": "请升级科技公司移动门户",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOj6AAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "09-27"
+        },
+        {
+            "author": "段磊",
+            "title": "回复: 请忽略今天的移动门户推送通知",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOj5AAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "09-27"
+        },
+        {
+            "author": "段磊",
+            "title": "季度考核",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gOj4AAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "09-26"
+        },
+        {
+            "author": "喻蜀江",
+            "title": "TEIP项目计划",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH6OAAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "09-21"
+        },
+        {
+            "author": "刘思颖",
+            "title": "转发关于参加天河区人大代表选举投票活动的通知",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH6NAAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "09-20"
+        },
+        {
+            "author": "段磊",
+            "title": "请忽略今天的移动门户推送通知",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH6EAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "09-19"
+        },
+        {
+            "author": "段磊",
+            "title": "回复: 产品整合方案",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH5vAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "09-09"
+        },
+        {
+            "author": "喻蜀江",
+            "title": "答复: 产品整合方案",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH5rAAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "09-08"
+        },
+        {
+            "author": "喻蜀江",
+            "title": "产品整合方案",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH5qAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "09-08"
+        },
+        {
+            "author": "张海霞",
+            "title": "答复: 软件著作权更换部分",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH5bAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "09-01"
+        },
+        {
+            "author": "张宇",
+            "title": "转发: 【个人办公电脑配置搜集通知】",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH5WAAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "08-30"
+        },
+        {
+            "author": "宁璐",
+            "title": "EIP 所需图标及可编辑psd 20160829",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH5TAAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "08-29"
+        },
+        {
+            "author": "张宇",
+            "title": "【个人办公电脑配置搜集通知】",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH5SAAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "08-29"
+        },
+        {
+            "author": "宁璐",
+            "title": "EIP  所需高清图20160826",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH4%252bAAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "08-26"
+        },
+        {
+            "author": "喻蜀江",
+            "title": "转发: 关于变更增值税开票信息的通知",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH4tAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "08-22"
+        },
+        {
+            "author": "段磊",
+            "title": "转发: 转发: 请假审批流程，辛苦安排在移动门户中配置",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH4sAAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "08-18"
+        },
+        {
+            "author": "段磊",
+            "title": "Google Android开发入门与实战",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH4jAAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "08-12"
+        },
+        {
+            "author": "admin@dms.yudean.com",
+            "title": "规章制度管理(文档已被撤转)：测试编号制度问题021",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH4JAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "08-08"
+        },
+        {
+            "author": "喻蜀江",
+            "title": "答复: 下周工作的安排",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH4FAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "08-05"
+        },
+        {
+            "author": "段磊",
+            "title": "下周工作的安排",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH4EAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "08-05"
+        },
+        {
+            "author": "段磊",
+            "title": "eip问题分析",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH4BAAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "08-04"
+        },
+        {
+            "author": "潘慧",
+            "title": "错过的与 yd890106@dms.yudean.com, yd890111@dms.yudean.com, yd890117@dms.yudean.com, yd890124@dms.yudean.com, yd890151@dms.yudean.com, yd890152@dms.yudean.com, yd890161@dms.yudean.com, yd890164@dms.yudean.com, yd890170@dms.yudean.com, yd890177@dms.yudean.co...",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note.Microsoft.Missed%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH4AAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "07-29"
+        },
+        {
+            "author": "喻蜀江",
+            "title": "转发: 集团版规章制度管理待办集成方案",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH39AAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "07-28"
+        },
+        {
+            "author": "喻蜀江",
+            "title": "转发: 集团版规章制度管理待办集成方案",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH38AAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "07-28"
+        },
+        {
+            "author": "陈旭",
+            "title": "答复: 集团版规章制度管理待办集成方案",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH37AAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "07-27"
+        },
+        {
+            "author": "林悦娜",
+            "title": "信息科技公司全员培训乘车及住宿安排",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH35AAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "07-26"
+        },
+        {
+            "author": "喻蜀江",
+            "title": "答复: 规章制度管理 工作量估计",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH34AAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "07-25"
+        },
+        {
+            "author": "张宇",
+            "title": "答复: 为什么说移动门户重构迫在眉睫了",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH3ZAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "06-28"
+        },
+        {
+            "author": "段磊",
+            "title": "为什么说移动门户重构迫在眉睫了",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH3YAAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "06-28"
+        },
+        {
+            "author": "ITCscan@dms.yudean.com",
+            "title": "Message from \"ITCRICOHC2551\"",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH3XAAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "06-28"
+        },
+        {
+            "author": "段磊",
+            "title": "季度考核",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH3WAAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "06-27"
+        },
+        {
+            "author": "段磊",
+            "title": "转发: 商务网测试环境、账号",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH3VAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "06-23"
+        },
+        {
+            "author": "段磊",
+            "title": "转发: 商务网测试环境、账号",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH3UAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "06-23"
+        },
+        {
+            "author": "段磊",
+            "title": "关于新建茂名电厂报销单的需求",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH3SAAAJ%26exvsurl%3D1",
+            "hasAttch": "false",
+            "date": "06-22"
+        },
+        {
+            "author": "段磊",
+            "title": "转发: 转发: 沙角C移动门户新版本需求",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH3RAAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "06-21"
+        },
+        {
+            "author": "ITCscan@dms.yudean.com",
+            "title": "Message from \"ITCRICOHC2551\"",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH3PAAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "06-19"
+        },
+        {
+            "author": "ITCscan@dms.yudean.com",
+            "title": "Message from \"ITCRICOHC2551\"",
+            "isNew": "false",
+            "link": "https%3A%2F%2Fydmail.dms.yudean.com%2Fowa%2F%3Fae%3DItem%26a%3DOpen%26t%3DIPM.Note%26id%3DRgAAAADd7%252f574JhxQ7VquYpqeyN3BwDK2HqJ78WBQ7uOjepPL5OSAAAA7ixOAADK2HqJ78WBQ7uOjepPL5OSAAA4gH3OAAAJ%26exvsurl%3D1",
+            "hasAttch": "true",
+            "date": "06-19"
+        }
+    ],
+    "link": "https://ydmail.dms.yudean.com/owa/",
+    "retmsg": "",
+    "mWidth": "450",
+    "type": "stdList"
+}
