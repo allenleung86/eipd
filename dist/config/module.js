@@ -138,7 +138,7 @@ NV.config = {
             "link": "mailFrame",
             "zoomRateW": 1.35,
             "zoomRateH": 1.62,
-            "refresh": 8,
+            "refresh": 23,
             "linkTarget": "IntMailRedirect",
             "hoverLink": {
                 "type": "NewWindow",
@@ -147,11 +147,11 @@ NV.config = {
                 "parser": "Redir"
             }
             /*"formatter": "TodoFilter",
-            "refresh": 7,
-            "link": 'http://eip-db1.gdyd.com/SSO/extLogin.do?appId=qiyemail',
-            "downloadUrl": "http://10.133.96.91/dataCenter/downloadqiyemail",
-            "getMailContentUrl": "http://10.133.96.91/dataCenter/visit",
-            "proxyTimeout": 3600*/
+             "refresh": 7,
+             "link": 'http://eip-db1.gdyd.com/SSO/extLogin.do?appId=qiyemail',
+             "downloadUrl": "http://10.133.96.91/dataCenter/downloadqiyemail",
+             "getMailContentUrl": "http://10.133.96.91/dataCenter/visit",
+             "proxyTimeout": 3600*/
         }, {
             "id": "4",
             "name": "月上网电量",
@@ -208,7 +208,7 @@ NV.config = {
             "pageRange": "8"
         }, {
             "id": "9",
-            "name": "粤电新闻",
+            "name": "山西能源新闻",
             "type": "新闻",
             "weight": "9",
             "tmpl": "TodoList",
@@ -232,7 +232,7 @@ NV.config = {
             }
         }, {
             "id": "10",
-            "name": "粤电新闻new",
+            "name": "山西能源新闻new",
             "type": "新闻",
             "weight": "9",
             "tmpl": "StdList",
@@ -274,15 +274,19 @@ NV.config = {
             }
         }, {
             "id": "14",
-            "name": "综合指标",
+            "name": "财务部指标",
             "type": "数据指标",
             "weight": "14",
             "tmpl": "CompIndex",
             "proxy": true,
-            "dataurl": "http://10.0.250.60/cache/dashboard.json?json_callback=json_callback",
-            "realurl": "http://10.0.250.60/TaskMgr/dt?p0=15",
+            //"dataurl": "http://10.0.250.60/cache/dashboard.json?json_callback=json_callback",
+            "dataurl": "http://10.0.250.60/dataCenter/dt",
+            //"realurl": "http://10.0.250.60/TaskMgr/dt?p0=15",
+            "realurl": "http://10.0.250.60/dataCenter/dt",
             "mHeight": "360",
             "mWidth": "450",
+            "zoomRateW": 1.35,
+            "zoomRateH": 1.62,
             "callback": "dashboard",
             "formatter": "CompIndex"
         }, {
@@ -565,6 +569,21 @@ NV.config = {
             "pageRange": "8",
             "pageTotal": "24",
             "refresh": 17
+        }, {
+            "id": "62",
+            "name": "公司公告",
+            "tmpl": "TodoList",
+            "proxy": true,
+            "dataurl": "http://10.0.250.60/dataCenter/dt",
+            "dtlurl": "http://10.0.250.60/dataCenter/visit",
+            //"dtlCache"	:{"mode":"HALF","uid":false, "exp":60},
+            "readurl": "http://10.0.250.60/dataCenter/read",
+            "redirurl": "http://10.0.250.60/dataCenter/redir",
+            "link": "http://oa.gdyd.com/gdyd/ioboard.nsf/myview?openform&view=&vwPublicedcount=20",
+            "zoomRateW": 1.35,
+            "zoomRateH": 1.62,
+            "refresh": 17,
+            "linkTarget": "CommonView"
         },{
             "id": "1002",
             "name": "年度采购金额占比",
@@ -660,7 +679,7 @@ NV.config = {
             "isPublic": "true"
         }, {
             "id": "9",
-            "name": "粤电新闻",
+            "name": "山西能源新闻",
             "userOrder": "4",
             "userId": "1"
         }, {
@@ -678,9 +697,14 @@ NV.config = {
             "name": "外部邮箱",
             "userOrder": "8",
             "userId": "1"
+        }, {
+            "id": "62",
+            "name": "公司公告",
+            "userOrder": "62",
+            "userId": "1"
         }
     ],
-    "title": "粤电集团门户网站",
+    "title": "山西能源门户网站",
     "userAppUrl": "../",
     "userInfoUrl": "http://10.0.16.201/addressbook/userAction.do",
     "tmplUrl": "./",

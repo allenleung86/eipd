@@ -50,6 +50,12 @@ NV.mockup = [{
     regex: /p0%3D1002%26/,
     url: "1002_timss_yearly_purchase.json"
 },{
+    regex: /p0%3D14%26/,
+    url: "14_zhzb.json"
+},{
+    regex: /p0%3D62%26/,
+    url: "62_gsgg.json"
+},{
     regex: /p0%3D81%26/,
     url: "81_yiban.json"
 },{

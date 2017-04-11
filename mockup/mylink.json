@@ -47,7 +47,7 @@
             "weight": 200,
             "clazzId": "mgrLink",
             "link": "http://10.0.250.60/SSO/extLogin.do?appId=B2B",
-            "name": "粤电商务网"
+            "name": "山西能源商务网"
         },
         {
             "id": "117",
@@ -166,7 +166,7 @@
             "weight": 2000,
             "clazzId": "mgrLink",
             "link": "http://10.192.100.133:8088/ydfinance",
-            "name": "科技公司财务报销系统"
+            "name": "山西能源公司财务报销系统"
         },
         {
             "id": "112",
@@ -355,7 +355,7 @@
             "weight": 2200,
             "clazzId": "prodLink",
             "link": "http://hdim.gdyd.com",
-            "name": "粤电集团水文资料信息管理系统"
+            "name": "山西能源水文资料信息管理系统"
         },
         {
             "id": "24",
