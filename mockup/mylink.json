@@ -1,32 +1,11 @@
 {
     "result": [
         {
-            "id": "92",
-            "weight": 2800,
-            "clazzId": "mgrLink",
-            "link": "http://eip-db1.gdyd.com/SSO/extLogin.do?appId=FWGL",
-            "name": "法务管理系统"
-        },
-        {
             "id": "4117",
             "weight": 2600,
             "clazzId": "mgrLink",
             "link": "https://10.14.0.100/selfservice",
             "name": "网络准入管理系统"
-        },
-        {
-            "id": "93",
-            "weight": 1800,
-            "clazzId": "mgrLink",
-            "link": "http://evam.gdyd.com",
-            "name": "股权增值管理系统（EVAM）"
-        },
-        {
-            "id": "69",
-            "weight": 100,
-            "clazzId": "hrLink",
-            "link": "http://eip3.gdyd.com/eip/cms_index.jsp?cid=ehrSearch",
-            "name": "人事查询系统"
         },
         {
             "id": "111",
@@ -43,39 +22,11 @@
             "name": "e-HR总裁桌面"
         },
         {
-            "id": "86",
-            "weight": 200,
-            "clazzId": "mgrLink",
-            "link": "http://10.0.250.60/SSO/extLogin.do?appId=B2B",
-            "name": "山西能源商务网"
-        },
-        {
             "id": "117",
             "weight": 500,
             "clazzId": "mgrLink",
             "link": "http://file.gdyd.com",
             "name": "文档管理系统"
-        },
-        {
-            "id": "80",
-            "weight": 400,
-            "clazzId": "mgrLink",
-            "link": "http://eip3.gdyd.com/eip/cms_index.jsp?cid=ldrc",
-            "name": "领导日程"
-        },
-        {
-            "id": "76",
-            "weight": 600,
-            "clazzId": "mgrLink",
-            "link": "http://eip3.gdyd.com/eip/cms_index.jsp?cid=jjxmbb",
-            "name": "基建项目信息"
-        },
-        {
-            "id": "41",
-            "weight": 300,
-            "clazzId": "mgrLink",
-            "link": "http://eip-app.gdyd.com:7777/static_pages/board/nosalist.htm",
-            "name": "企业管理绩效"
         },
         {
             "id": "70",
@@ -106,13 +57,6 @@
             "name": "企业标准化（单点登录）"
         },
         {
-            "id": "73",
-            "weight": 1400,
-            "clazzId": "mgrLink",
-            "link": "http://10.192.100.68:8088/hqgl",
-            "name": "行政管理信息系统"
-        },
-        {
             "id": "74",
             "weight": 800,
             "clazzId": "mgrLink",
@@ -127,116 +71,11 @@
             "name": "电力工程评审系统"
         },
         {
-            "id": "78",
-            "weight": 1500,
-            "clazzId": "mgrLink",
-            "link": "http://10.0.16.119:8080/bxsp",
-            "name": "保险索赔"
-        },
-        {
-            "id": "79",
-            "weight": 1600,
-            "clazzId": "mgrLink",
-            "link": "http://eip3.gdyd.com/eip/cms_index.jsp?cid=xhxhgl",
-            "name": "协会学会管理"
-        },
-        {
-            "id": "81",
-            "weight": 1700,
-            "clazzId": "mgrLink",
-            "link": "http://chinalaw.gdyd.com/claw",
-            "name": "中国法律检索系统"
-        },
-        {
-            "id": "83",
-            "weight": 2900,
-            "clazzId": "mgrLink",
-            "link": "http://stock.gdyd.com:8080/gqglxt",
-            "name": "股权管理系统（仅供备查)"
-        },
-        {
-            "id": "105",
-            "weight": 1900,
-            "clazzId": "mgrLink",
-            "link": "http://10.0.250.39:8080/OAapp/WebObjects/OAapp.woa",
-            "name": "工作任务及工作日志"
-        },
-        {
-            "id": "85",
-            "weight": 2000,
-            "clazzId": "mgrLink",
-            "link": "http://10.192.100.133:8088/ydfinance",
-            "name": "山西能源公司财务报销系统"
-        },
-        {
-            "id": "112",
-            "weight": 2100,
-            "clazzId": "mgrLink",
-            "link": "http://eip3.gdyd.com/eip/cms_index.jsp?cid=cwjkb",
-            "name": "财务简况表"
-        },
-        {
-            "id": "113",
-            "weight": 2200,
-            "clazzId": "mgrLink",
-            "link": "http://10.0.16.139:9704/analytics",
-            "name": "财务分析"
-        },
-        {
-            "id": "114",
-            "weight": 2300,
-            "clazzId": "mgrLink",
-            "link": "http://10.0.16.197:8080",
-            "name": "无纸化学法用法及考试系统"
-        },
-        {
-            "id": "115",
-            "weight": 2400,
-            "clazzId": "mgrLink",
-            "link": "http://cpb.gdyd.com",
-            "name": "基建工程项目招投标管理系统"
-        },
-        {
-            "id": "130",
-            "weight": 2500,
-            "clazzId": "mgrLink",
-            "link": "http://emap.gdyd.com",
-            "name": "电厂分布图"
-        },
-        {
-            "id": "2",
-            "weight": 100,
-            "clazzId": "prodLink",
-            "link": "http://eip3.gdyd.com/eip/cms_index.jsp?cid=monthplan",
-            "name": "月度工作计划"
-        },
-        {
-            "id": "3",
-            "weight": 200,
-            "clazzId": "prodLink",
-            "link": "http://eip3.gdyd.com/eip/cms_index.jsp?cid=weekplan",
-            "name": "周工作计划"
-        },
-        {
-            "id": "4",
-            "weight": 400,
-            "clazzId": "prodLink",
-            "link": "http://eip3.gdyd.com/eip/cms_index.jsp?cid=weekplancomplete",
-            "name": "周工作计划完成"
-        },
-        {
             "id": "5",
             "weight": 300,
             "clazzId": "prodLink",
             "link": "http://eip3.gdyd.com/eip/cms_index.jsp?cid=sczh",
             "name": "生产周会"
-        },
-        {
-            "id": "6",
-            "weight": 500,
-            "clazzId": "prodLink",
-            "link": "http://10.0.17.50:8080/ydtcms",
-            "name": "指标对标管理平台"
         },
         {
             "id": "7",
@@ -251,13 +90,6 @@
             "clazzId": "prodLink",
             "link": "http://eip3.gdyd.com/eip/cms_index.jsp?cid=sis",
             "name": "电厂生产实时监控"
-        },
-        {
-            "id": "9",
-            "weight": 700,
-            "clazzId": "prodLink",
-            "link": "http://psis.gdyd.com/ydsis",
-            "name": "集团生产实时监测系统"
         },
         {
             "id": "10",
@@ -288,32 +120,11 @@
             "name": "设备台帐"
         },
         {
-            "id": "14",
-            "weight": 1300,
-            "clazzId": "prodLink",
-            "link": "http://eip3.gdyd.com/eip/cms_index.jsp?cid=kkx",
-            "name": "可靠性"
-        },
-        {
             "id": "15",
             "weight": 1400,
             "clazzId": "prodLink",
             "link": "http://eip3.gdyd.com/eip/cms_index.jsp?cid=jsjd",
             "name": "技术监督"
-        },
-        {
-            "id": "16",
-            "weight": 1500,
-            "clazzId": "prodLink",
-            "link": "http://eip-db1.gdyd.com/SSO/extLogin.do?appId=EAM",
-            "name": "集中式EAM系统"
-        },
-        {
-            "id": "17",
-            "weight": 1600,
-            "clazzId": "prodLink",
-            "link": "http://eip-app.gdyd.com:7777/BIParam/fhl_mhl.jsp",
-            "name": "负荷率与煤耗分析"
         },
         {
             "id": "18",
@@ -323,27 +134,6 @@
             "name": "节能减排评价体系"
         },
         {
-            "id": "19",
-            "weight": 1800,
-            "clazzId": "prodLink",
-            "link": "http://10.192.97.2",
-            "name": "防汛调度"
-        },
-        {
-            "id": "20",
-            "weight": 1900,
-            "clazzId": "prodLink",
-            "link": "http://www.gd12121.com/special/gdyd.htm",
-            "name": "集团气象服务"
-        },
-        {
-            "id": "21",
-            "weight": 2000,
-            "clazzId": "prodLink",
-            "link": "http://eip3.gdyd.com/eip/cms_index.jsp?cid=sssw",
-            "name": "水库水情日报"
-        },
-        {
             "id": "22",
             "weight": 2100,
             "clazzId": "prodLink",
@@ -351,25 +141,11 @@
             "name": "虚拟仓库"
         },
         {
-            "id": "23",
-            "weight": 2200,
-            "clazzId": "prodLink",
-            "link": "http://hdim.gdyd.com",
-            "name": "山西能源水文资料信息管理系统"
-        },
-        {
             "id": "24",
             "weight": 2300,
             "clazzId": "prodLink",
             "link": "http://opm.gdyd.com/pm",
             "name": "生产项目管理系统"
-        },
-        {
-            "id": "43",
-            "weight": 600,
-            "clazzId": "bizLink",
-            "link": "http://eip-db1.gdyd.com/SSO/extLogin.do?appId=YDDSS",
-            "name": "电力营销管理"
         },
         {
             "id": "44",
@@ -386,25 +162,11 @@
             "name": "燃料管理"
         },
         {
-            "id": "46",
-            "weight": 500,
-            "clazzId": "bizLink",
-            "link": "http://eip3.gdyd.com/eip/cms_index.jsp?cid=hyzb",
-            "name": "航运指标"
-        },
-        {
             "id": "60",
             "weight": 400,
             "clazzId": "hrLink",
             "link": "http://10.192.100.20",
             "name": "e-HR系统业务登录"
-        },
-        {
-            "id": "61",
-            "weight": 600,
-            "clazzId": "hrLink",
-            "link": "http://10.192.100.127",
-            "name": "网络培训系统"
         },
         {
             "id": "1001",
@@ -414,32 +176,11 @@
             "name": "人力资源信息统计系统"
         },
         {
-            "id": "36",
-            "weight": 200,
-            "clazzId": "hrLink",
-            "link": "http://ogsm.gdyd.com",
-            "name": "OGSM绩效管理系统"
-        },
-        {
-            "id": "4523",
-            "weight": 500,
-            "clazzId": "hrLink",
-            "link": "http://eip-db1.gdyd.com/SSO/extLogin.do?appId=WYC-HR",
-            "name": "物业公司-人力资源系统"
-        },
-        {
             "id": "1111",
             "weight": 100,
             "clazzId": "mgrLink",
             "link": "http://eip-db1.gdyd.com/SSO/extLogin.do?appId=OA",
             "name": "新OA办公系统"
-        },
-        {
-            "id": "2001",
-            "weight": 1000,
-            "clazzId": "mgrLink",
-            "link": "http://10.192.100.88/standpro/default.jsp",
-            "name": "企业标准化（游客访问）"
         },
         {
             "id": "90",
@@ -461,13 +202,6 @@
             "clazzId": "mgrLink",
             "link": "http://djxx.gdyd.com/",
             "name": "党建信息管理系统"
-        },
-        {
-            "id": "1806",
-            "weight": 3000,
-            "clazzId": "mgrLink",
-            "link": "http://oa2.gdyd.com/indikmnew/doccenter.nsf",
-            "name": "直属公司工作信息"
         },
         {
             "id": "1002",

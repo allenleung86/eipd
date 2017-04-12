@@ -13,7 +13,7 @@
         "iconCls": "fi-mail2",
         "url": "http://eip-db1.gdyd.com/SSO/extLogin.do?appId=qiyemail"
     },{
-        "title": "新通讯录",
+        "title": "通讯录",
         "iconCls": "fi-phonebook",
         "url": "http://10.0.16.201:8080/addressbook/search.jsp"
     },{
@@ -21,7 +21,7 @@
         "iconCls": "fi-global",
         "url": "http://www.gdyd.com/"
     },{
-        "title": "共享文件",
+        "title": "TIMSS",
         "iconCls": "fi-doc",
         "url": "file://10.0.24.45/"
     },{

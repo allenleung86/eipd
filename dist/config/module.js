@@ -49,7 +49,7 @@ NV.config = {
             "refresh": 7
         }, {
             "id": "2",
-            "name": "新OA公告",
+            "name": "OA公告",
             "tmpl": "TodoList",
             "proxy": true,
             "dataurl": "http://10.0.250.60/dataCenter/dt",
@@ -78,7 +78,7 @@ NV.config = {
             "refresh": 17
         }, {
             "id": "7",
-            "name": "新OA待阅",
+            "name": "OA待阅",
             "tmpl": "TodoList",
             "proxy": true,
             "dataurl": "http://eip-db1.gdyd.com/dataCenter/dt",
@@ -127,32 +127,34 @@ NV.config = {
                 "link": "${redirurl}?p0=${id}&p2=${userId}&p4=1&p3=newMail",
                 "parser": "Redir"
             }
-        }, {
-            "id": "23",
-            "name": "外部邮箱",
-            "weight": "3",
-            "tmpl": "TodoList",
-            "proxy": true,
-            "dataurl": "http://10.0.250.60/dataCenter/dt",
-            "redirurl": "http://10.0.250.60/dataCenter/redir",
-            "link": "mailFrame",
-            "zoomRateW": 1.35,
-            "zoomRateH": 1.62,
-            "refresh": 23,
-            "linkTarget": "IntMailRedirect",
-            "hoverLink": {
-                "type": "NewWindow",
-                "title": "写邮件",
-                "link": "${redirurl}?p0=${id}&p2=${userId}&p4=1&p3=newMail",
-                "parser": "Redir"
-            }
-            /*"formatter": "TodoFilter",
-             "refresh": 7,
-             "link": 'http://eip-db1.gdyd.com/SSO/extLogin.do?appId=qiyemail',
-             "downloadUrl": "http://10.133.96.91/dataCenter/downloadqiyemail",
-             "getMailContentUrl": "http://10.133.96.91/dataCenter/visit",
-             "proxyTimeout": 3600*/
-        }, {
+        },
+        // {
+        //     "id": "23",
+        //     "name": "外部邮箱",
+        //     "weight": "3",
+        //     "tmpl": "TodoList",
+        //     "proxy": true,
+        //     "dataurl": "http://10.0.250.60/dataCenter/dt",
+        //     "redirurl": "http://10.0.250.60/dataCenter/redir",
+        //     "link": "mailFrame",
+        //     "zoomRateW": 1.35,
+        //     "zoomRateH": 1.62,
+        //     "refresh": 23,
+        //     "linkTarget": "IntMailRedirect",
+        //     "hoverLink": {
+        //         "type": "NewWindow",
+        //         "title": "写邮件",
+        //         "link": "${redirurl}?p0=${id}&p2=${userId}&p4=1&p3=newMail",
+        //         "parser": "Redir"
+        //     }
+        //     /*"formatter": "TodoFilter",
+        //      "refresh": 7,
+        //      "link": 'http://eip-db1.gdyd.com/SSO/extLogin.do?appId=qiyemail',
+        //      "downloadUrl": "http://10.133.96.91/dataCenter/downloadqiyemail",
+        //      "getMailContentUrl": "http://10.133.96.91/dataCenter/visit",
+        //      "proxyTimeout": 3600*/
+        // },
+        /*{
             "id": "4",
             "name": "月上网电量",
             "type": "BI",
@@ -179,9 +181,9 @@ NV.config = {
             "pHeight": "1.5",
             "heightLimit": "132",
             "zoomRateH": 1.5
-        }, {
+        },*/ {
             "id": "6",
-            "name": "集团存煤",
+            "name": "山西能源存煤",
             "type": "BI",
             "weight": "6",
             "tmpl": "StdImg",
@@ -273,7 +275,7 @@ NV.config = {
                 "type": "ReadAll"
             }
         }, {
-            "id": "14",
+            "id": "10009",
             "name": "财务部指标",
             "type": "数据指标",
             "weight": "14",
@@ -285,8 +287,8 @@ NV.config = {
             "realurl": "http://10.0.250.60/dataCenter/dt",
             "mHeight": "360",
             "mWidth": "450",
-            "zoomRateW": 1.35,
-            "zoomRateH": 1.62,
+            //"zoomRateW": 1.35,
+            //"zoomRateH": 1.62,
             "callback": "dashboard",
             "formatter": "CompIndex"
         }, {
@@ -329,7 +331,7 @@ NV.config = {
         },
         {
             "id": "30",
-            "name": "实时集团库存资金排名",
+            "name": "实时山西能源库存资金排名",
             "type": "虚拟仓库",
             "weight": "30",
             "tmpl": "vtlRepo",
@@ -344,7 +346,7 @@ NV.config = {
             "3d_id": "groupinventoryrank"
         }, {
             "id": "31",
-            "name": "集团入库占维护资金比",
+            "name": "山西能源入库占维护资金比",
             "type": "虚拟仓库",
             "weight": "30",
             "tmpl": "vtlRepo",
@@ -359,7 +361,7 @@ NV.config = {
             "3d_id": "groupstockmaintainscale"
         }, {
             "id": "32",
-            "name": "集团年度库存资金使用情况",
+            "name": "山西能源年度库存资金使用情况",
             "type": "虚拟仓库",
             "weight": "31",
             "tmpl": "vtlRepo",
@@ -584,7 +586,7 @@ NV.config = {
             "zoomRateH": 1.62,
             "refresh": 17,
             "linkTarget": "CommonView"
-        },{
+        }/*,{
             "id": "1002",
             "name": "年度采购金额占比",
             "tmpl": "Chart",
@@ -632,7 +634,7 @@ NV.config = {
                 "title": "设置",
                 "link": "Redirect:TIMSSEntry"
             }
-        },{
+        }*/,{
             "id": "10004",
             "name": "采购库存统计",
             "tmpl": "BigNumber",
@@ -662,7 +664,7 @@ NV.config = {
             "userId": "1"
         }, {
             "id": "2",
-            "name": "集团公告",
+            "name": "山西能源公告",
             "userOrder": "1",
             "userId": "1"
         }, {
@@ -683,23 +685,26 @@ NV.config = {
             "userOrder": "4",
             "userId": "1"
         }, {
-            "id": "14",
-            "name": "综合指标",
-            "userOrder": "6",
-            "userId": "1"
-        }, {
             "id": "3",
             "name": "内部邮箱",
             "userOrder": "7",
             "userId": "1"
-        }, {
+        },
+        /*{
             "id": "26",
             "name": "外部邮箱",
             "userOrder": "8",
             "userId": "1"
-        }, {
+        },*/
+        {
             "id": "62",
             "name": "公司公告",
+            "userOrder": "62",
+            "userId": "1"
+        },
+        {
+            "id": "10009",
+            "name": "财务部指标",
             "userOrder": "62",
             "userId": "1"
         }
